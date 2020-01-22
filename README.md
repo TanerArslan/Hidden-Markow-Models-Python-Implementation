@@ -21,4 +21,4 @@ HMM(px0 = px0, theta=theta, phi=phi, y= y, T=t)
 
 ## Author
 
-* **Taner Arslan** *
+* **Taner Arslan** 
