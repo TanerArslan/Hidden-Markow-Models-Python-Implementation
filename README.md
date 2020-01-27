@@ -7,7 +7,7 @@ The associated homework can be found in here:
 #Runnig the test
 Parameters:
 ```
-px0 = prior knowled
+px0 = prior knowledge
 theta = transition probability
 phi= observation probability
 y = observations
